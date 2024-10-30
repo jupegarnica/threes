@@ -1,0 +1,19 @@
+{
+  "name": "sherpafono",
+  "version": "0.0.0",
+  "description": " webhook to switch configuration of asterisk ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:urbansherpas/sherpafono.setting.git"
+  },
+  "author": "jupegarnica",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.10.1"
+  }
+}
