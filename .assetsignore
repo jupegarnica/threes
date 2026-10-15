@@ -1,0 +1,17 @@
+# Ficheros que NO se sirven como assets estáticos
+.git
+.github
+.gitignore
+.wrangler
+.DS_Store
+.assetsignore
+deno.json
+deno.lock
+main.ts
+node_modules
+wrangler.jsonc
+bash2048.sh
+borra.js
+rate_us.tpl
+sherpafono.setting
+startup.sh
